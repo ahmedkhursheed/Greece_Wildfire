@@ -1,0 +1,13 @@
+pandas
+numpy
+ipython
+glob2
+tqdm
+matplotlib
+seaborn
+optuna
+lightgbm
+scikit-learn
+ultralytics
+yolov8
+Ipython
